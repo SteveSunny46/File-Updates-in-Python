@@ -1,4 +1,4 @@
-# File Updates in Python
+# IP-based File Access using Python
 
 ## Project description
 I've developed an algorithm to automate the management of access to restricted content at our organization. This algorithm uses an "allow_list.txt" file to specify which IP addresses are granted access, and a separate list to identify IP addresses that should no longer have this privilege. It ensures that those IP addresses are removed from the "allow_list.txt" file, effectively revoking their access to the content.
